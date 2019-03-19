@@ -23,3 +23,5 @@ store = Store.create({
   :annual_revenue => 190000,
   :mens_apparel => true,
 })
+
+puts Store.count
